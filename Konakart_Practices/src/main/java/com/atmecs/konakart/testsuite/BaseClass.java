@@ -3,10 +3,9 @@ package com.atmecs.konakart.testsuite;
 import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-import org.openqa.selenium.Capabilities;
+
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.remote.RemoteWebDriver;
+
 import org.testng.annotations.BeforeTest;
 import com.atmecs.konakart.constants.FilePaths;
 import com.atmecs.konakart.utils.ReadProperties;
